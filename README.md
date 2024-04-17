@@ -38,13 +38,16 @@
 ## To name the running container 
 + "--rm" container gets removed when stopped automatically , "--name" helps to name for our own convinience
 
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/d8c8705d-ea2b-4522-b700-92f849d01e9d)
+
 ## Building Images with names 
 + After "-t" write app-name:version . , "." is current directory 
 
 ![image](https://github.com/aditimahabole/docker-help/assets/78752342/1f6bd53e-c9cd-403c-9e85-d036fd5629c8)
 
 
-![image](https://github.com/aditimahabole/docker-help/assets/78752342/d8c8705d-ea2b-4522-b700-92f849d01e9d)
+
 
 
 ![image](https://github.com/aditimahabole/docker-help/assets/78752342/0fe287f7-7c43-42ad-9ea0-8c8dda5bb219)
@@ -52,6 +55,36 @@
 ## Remove Image
 
 ![image](https://github.com/aditimahabole/docker-help/assets/78752342/ba7d2bdc-4b19-4896-9515-557ab01223ff)
+
+
+## To see Images list
+
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/e5b48c0d-5faa-49ac-ac53-5b044b5f9773)
+
+
++ "-t" means tagging
+<br>
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/2c8cf77e-176c-4d40-a22e-9ebf1c5a27c9)
+
+## After Updating something 
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/76822da9-930e-411b-a99e-8149286d70a3)
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/c6cbab9b-c2d5-4786-b94a-8a724a76163f)
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/48d201a9-d6d1-41e8-a212-bc03aae961d4)
+
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/8251cf1d-87ec-4547-854e-561f3110a5a4)
+
+
+![image](https://github.com/aditimahabole/docker-help/assets/78752342/fc154d91-5cdd-4788-9a16-4fe6ac543529)
+
+
+
+
+
 
 
 
